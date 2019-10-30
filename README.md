@@ -19,7 +19,7 @@ language feature of Ruby: the _block_.
 ## Identify Duplication That Can Be Avoided With Blocks
 
 Let's look at this solution code from the previous lesson:
-
+https://learn.co/tracks/module-1-web-development-immersive-2-1/ruby/ruby-enumerables-and-better-tools-for-collections-work/generalized-map-and-reduce-lab#
 ```ruby
 def map_to_negativize(source_array)
   new = []
